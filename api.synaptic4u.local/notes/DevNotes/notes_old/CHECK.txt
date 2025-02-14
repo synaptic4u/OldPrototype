@@ -1,0 +1,11 @@
+
+1.  Registration - works as expected.
+
+2.  Forgot password - sends change password link.
+    Update password works -> REcieves password update success message
+    Sends the next link but the link breaks.
+
+3.  Normal login through link works fine!
+
+4.  User -> Profile -> Displays Profile.
+    Edit button -> JS errror -> document.getElementById is null ???

@@ -1,0 +1,31 @@
+{
+    "hierachyid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "detid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "exclude": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "hierachytypeid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "type" : {
+        "required": true,
+        "type": "string",
+        "length" : 3  
+    }
+}

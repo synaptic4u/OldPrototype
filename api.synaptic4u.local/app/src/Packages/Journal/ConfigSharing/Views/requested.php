@@ -1,0 +1,1 @@
+<?php if (isset($lastid) && (0 < ((int) $lastid))) { ?><span class="p-1 alert alert-sm alert-success text-center fading">Your request has been sent.<br>Once approved you will be able to view their journal</span><?php } else { ?><span class="p-1 alert alert-sm alert-warning text-center fading">Your request has NOT been sent.<br>Please contact the Admin.</span><?php } ?>

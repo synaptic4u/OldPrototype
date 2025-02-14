@@ -1,0 +1,41 @@
+
+1.  After Registration, when I log in:
+    The default logo doesn't appear.
+    There's a gap between the nav menu and top menu.
+    Clicking on Organization Settings produces an error and logs me out.
+
+2.  Forgot Password -> After updating the password, app sends the next link.
+    The links is broken -> Doesn't produce user visible errors, just sends to logout.php with an empty mnessage.
+
+    Doesn't reliably work -> Third time received the link which worked, but I had to wait 5-10 minutes for it.
+
+    activity.txt
+        2022 / 05 / 12 : 12 21 17
+        userid: 3
+        Location: Synaptic4U\Packages\Authenticate\Model::confirmSecLink(): 0
+        link: eaafa218c9beb9f4ffc7d59bfcb5b7453a74bcdb68e25d58c17340681fe150ea2bf9d82ef78a72af44b9e400ec4212c2a9ac0d73d73c9794c2c3612be457f7cdd55f974b7062a3580e0dae6b000c5ea5341380351aba2ee2ff619bf1300d29
+        data: {
+            "error": "The link is invalid",
+            "approve": -1,
+            "userid": -100
+        }
+    
+    error.txt
+        2022 / 05 / 12 : 12 21 17
+        userid: 2
+        Location: Synaptic4U\Core\Encryption::confirmSecLink()
+        $e: Exception in /var/www/api.synaptic4u.local/app/src/Core/Encryption.php:885
+        Stack trace:
+        #0 /var/www/api.synaptic4u.local/app/src/Packages/Authenticate/Model.php(311): Synaptic4U\Core\Encryption->confirmSecLink()
+        #1 /var/www/api.synaptic4u.local/app/src/Packages/Authenticate/Authenticate.php(112): Synaptic4U\Packages\Authenticate\Model->confirmSecLink()
+        #2 /var/www/api.synaptic4u.local/app/src/Core/Security.php(178): Synaptic4U\Packages\Authenticate\Authenticate->confirmSecLink()
+        #3 /var/www/api.synaptic4u.local/app/src/Packages/User/User.php(361): Synaptic4U\Core\Security->updatePassword()
+        #4 [internal function]: Synaptic4U\Packages\User\User->updatePassword()
+        #5 /var/www/api.synaptic4u.local/app/src/Core/App.php(329): call_user_func_array()
+        #6 /var/www/api.synaptic4u.local/app/src/Core/App.php(380): Synaptic4U\Core\App->loadController()
+        #7 /var/www/api.synaptic4u.local/app/src/Core/App.php(74): Synaptic4U\Core\App->routeApp()
+        #8 /var/www/api.synaptic4u.local/public_html/base.php(30): Synaptic4U\Core\App->__construct()
+        #9 {main}
+
+3.  User -> Profile -> Displays Profile.
+    Edit button -> JS errror -> document.getElementById is null ???

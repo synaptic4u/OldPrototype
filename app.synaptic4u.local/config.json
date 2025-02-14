@@ -1,0 +1,19 @@
+{
+    "url" : {
+        "client" : "app.synaptic4u.local",
+        "server" : "api.synaptic4u.local"
+    },
+    "email" : {
+        "admin" : "admin@synaptic4u.co.za",
+        "sales" : "emile@synaptic4u.co.za"
+    },
+    "key" : "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link" : {
+        "enabled" : 1,
+        "url" : "https://synaptic4u.co.za/apps/",
+        "text" : "Our available services"
+    },
+    "production" : {
+        "enabled" : 1
+    }
+}

@@ -1,0 +1,2 @@
+send('collapseOrganizationApplicationsDetails',
+'<?php echo $show; ?>','<?php echo $applications; ?>',['<?php echo $hierachyid['value']; ?>','<?php echo $detid['value']; ?>']);

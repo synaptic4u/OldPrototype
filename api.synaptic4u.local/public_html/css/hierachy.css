@@ -1,0 +1,39 @@
+.hide{
+    display: none;
+}
+
+.hierachy-area{
+    width : 550px;
+    top: 60px;
+    height:calc(100% - 60px);
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+
+.hierachy-link{
+    display: flex;
+    align-items: center;
+}
+.hierachy-link .right-icon{
+    display: inline-flex;
+    transition: all ease 0.25s;
+}
+.hierachy-link[aria-expanded="true"] .right-icon{
+     transform: rotate(90deg);
+}
+
+@media (min-width:992px) {
+    .hierachy-area{
+        width : 550px;
+        top: 60px;
+        height:calc(100% - 60px);
+    }
+}
+
+@media (max-width:992px) {
+    .hierachy-area{
+        width: 100%;
+        top: 60px;
+        height:calc(100% - 60px);
+    }
+}

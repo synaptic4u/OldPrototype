@@ -1,0 +1,20 @@
+{
+    "hierachyid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "detid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "appid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    }
+}

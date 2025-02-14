@@ -1,0 +1,1 @@
+paginate.setup('journal_pagination');send('journal_entries', '<?php echo $method; ?>', '<?php echo $calls['JournalList']; ?>', ['<?php echo $userid; ?>','<?php echo $pages[0]; ?>','<?php echo $pages[1]; ?>']);

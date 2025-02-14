@@ -1,0 +1,67 @@
+{
+    "hierachyid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "detid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "particularid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "imageid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "hierachy_profile_logo": {
+        "required": false,
+        "type": "image",
+        "properties": {
+            "name": 2,
+            "content": 20,
+            "width": 0,
+            "height": 0,
+            "sizelimit": 5000000,
+            "accepted": [
+                "image/jpeg",
+                "image/png"
+            ]
+        }
+    },
+    "website": {
+        "required": false,
+        "type": "string",
+        "length": 5
+    },
+    "contactuserid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "phone": {
+        "required": false,
+        "type": "string",
+        "length": 10
+    },
+    "address": {
+        "required": false,
+        "type": "string",
+        "length": 20
+    },
+    "postal": {
+        "required": false,
+        "type": "string",
+        "length": 20
+    }
+}

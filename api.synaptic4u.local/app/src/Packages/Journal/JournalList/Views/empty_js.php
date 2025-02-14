@@ -1,0 +1,1 @@
+message_mod.init('Shared Journals','<?php echo $msg; ?>', 'info');message_mod.wipe();send('init','<?php echo $calls['loadJournal']; ?>','<?php echo $calls['myJournalList']; ?>');

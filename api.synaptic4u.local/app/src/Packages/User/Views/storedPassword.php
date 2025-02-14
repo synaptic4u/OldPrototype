@@ -1,0 +1,1 @@
+<?php if ((1 === (int) $data['rowcnt']) && ((int) $data['userid'] > 0)) { ?>Your password has been successfully updated.<br>A confirmation login mail has been sent to: <?php echo $data['email']; ?> to continue to login.<?php } else { ?>We were unable to send a link to <?php echo $data['email']; ?>.<br>Please contact me at system@synaptic4u.co.za<?php } ?>

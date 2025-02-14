@@ -1,0 +1,30 @@
+{
+    "hierachyid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "hierachysubid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "hierachyname": {
+        "required": true,
+        "type": "string",
+        "length": 2
+    },
+    "hierachytypeid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "hierachydescription": {
+        "required": false,
+        "type": "string",
+        "length": 20
+    }
+}

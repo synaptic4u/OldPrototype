@@ -1,0 +1,24 @@
+Optimization
+    Indexing to improve speed. trying on tables: stream, mykeys.
+        ->  So far normal querying with indexes isnt helping.
+            500,000 records so far.
+        ->  Main culprit seems to be MySQL query.
+
+Registration
+    POPI div needs spacing.
+
+    Success message must tell to check email!
+
+Landing template
+    Image default breaks if individual registers on their own.
+
+Hierachy
+    Individual user if they click it breaks. Cannot load Organization Builder!
+    Should allow a user to create their own organization.
+
+
+Email
+    Need to work on the:
+        CSS
+        Disclaimer
+        Branding

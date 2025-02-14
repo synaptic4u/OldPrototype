@@ -1,0 +1,61 @@
+{
+    "hierachyid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "detid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "role" : {
+        "required": true,
+        "type": "string",
+        "length" : 3  
+    },
+    "roleid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "exclude": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "userid": {
+        "required": true,
+        "type": "int",
+        "value": 3,
+        "min": 3
+    },
+    "view": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "create": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "edit": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "delete": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    }
+}

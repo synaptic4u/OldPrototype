@@ -1,0 +1,1 @@
+<?php if (1 === (int) $data['result']) { ?>A confirmation email has been sent to <?php echo $data['email']; ?>.<br>Please click on the link to complete the password change process.<?php } else { ?>We were unable to send a link to <?php echo $data['email']; ?>.<br>Please contact me at system@synaptic4u.co.za.<?php } ?>

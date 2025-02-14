@@ -1,0 +1,58 @@
+{
+    "hierachyid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "detid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "userid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "roleid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "firstname" : {
+        "required": true,
+        "type": "string",
+        "length" : 2  
+    },
+    "surname" : {
+        "required": true,
+        "type": "string",
+        "length" : 2
+    },
+    "contactnu" : {
+        "required": true,
+        "type": "string",
+        "length" : 10
+    },
+    "email" : {
+        "required": true,
+        "type": "string",
+        "length" : 7  
+    },
+    "personnel": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    },
+    "invite": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 0
+    }
+}

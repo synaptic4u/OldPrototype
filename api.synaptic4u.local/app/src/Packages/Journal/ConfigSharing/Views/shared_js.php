@@ -1,0 +1,1 @@
+$('select').selectpicker();send('config_following','<?php echo $calls['following']; ?>','<?php echo $calls['ConfigSharing2']; ?>');changeStyle();

@@ -1,0 +1,2290 @@
+
+2024-08-19 18:13:49
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "57858",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724084029.488592,
+    "REQUEST_TIME": 1724084029
+}
+
+2024-08-19 18:13:49
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": null,
+    "y": null,
+    "n": null,
+    "a": null,
+    "p": null,
+    "t": null,
+    "i": null,
+    "c": true
+}
+myserver: 1
+
+2024-08-19 20:34:34
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "47500",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724092474.129387,
+    "REQUEST_TIME": 1724092474
+}
+
+2024-08-19 20:34:34
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": null,
+    "y": null,
+    "n": null,
+    "a": null,
+    "p": null,
+    "t": null,
+    "i": null,
+    "c": true
+}
+myserver: 1
+
+2024-08-19 21:00:15
+Location: app.synaptic4u.local - logout.php
+$_GET: {
+    "message": "You have been inactive for longer then 25 minutes and have been logged out."
+}
+
+2024-08-19 21:00:20
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_REFERER": "https:\/\/app.synaptic4u.local\/logout.php?message=You%20have%20been%20inactive%20for%20longer%20then%2025%20minutes%20and%20have%20been%20logged%20out.",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "47764",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/index.php",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724094020.724223,
+    "REQUEST_TIME": 1724094020
+}
+
+2024-08-19 21:00:21
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": null,
+    "y": null,
+    "n": null,
+    "a": null,
+    "p": null,
+    "t": null,
+    "i": null,
+    "c": true
+}
+myserver: 1
+
+2024-08-19 21:54:16
+Location: app.synaptic4u.local - logout.php
+$_GET: {
+    "message": "You have been inactive for longer then 25 minutes and have been logged out."
+}
+
+2024-08-19 21:54:21
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_REFERER": "https:\/\/app.synaptic4u.local\/logout.php?message=You%20have%20been%20inactive%20for%20longer%20then%2025%20minutes%20and%20have%20been%20logged%20out.",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "34794",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/index.php",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724097261.854697,
+    "REQUEST_TIME": 1724097261
+}
+
+2024-08-19 21:54:22
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": null,
+    "y": null,
+    "n": null,
+    "a": null,
+    "p": null,
+    "t": null,
+    "i": null,
+    "c": true
+}
+myserver: 1
+
+2024-08-19 21:54:58
+Location: app.synaptic4u.local - logout.php
+$_GET: {
+    "message": "You have been inactive for longer then 25 minutes and have been logged out."
+}
+
+2024-08-19 21:55:03
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_REFERER": "https:\/\/app.synaptic4u.local\/logout.php?message=You%20have%20been%20inactive%20for%20longer%20then%2025%20minutes%20and%20have%20been%20logged%20out.",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "59080",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/index.php",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724097303.103117,
+    "REQUEST_TIME": 1724097303
+}
+
+2024-08-19 21:55:03
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": null,
+    "y": null,
+    "n": null,
+    "a": null,
+    "p": null,
+    "t": null,
+    "i": null,
+    "c": true
+}
+myserver: 1
+
+2024-08-19 23:28:01
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_REFERER": "https:\/\/app.synaptic4u.local\/logout.php?message=You%20have%20been%20inactive%20for%20longer%20then%2025%20minutes%20and%20have%20been%20logged%20out.",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "37372",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/index.php",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724102881.788911,
+    "REQUEST_TIME": 1724102881
+}
+
+2024-08-19 23:28:02
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": null,
+    "y": null,
+    "n": null,
+    "a": null,
+    "p": null,
+    "t": null,
+    "i": null,
+    "c": true
+}
+myserver: 1
+
+2024-08-20 11:57:36
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "46146",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724147856.308249,
+    "REQUEST_TIME": 1724147856
+}
+
+2024-08-20 11:57:36
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": null,
+    "y": null,
+    "n": null,
+    "a": null,
+    "p": null,
+    "t": null,
+    "i": null,
+    "c": true
+}
+myserver: 1
+
+2024-08-20 11:57:57
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "*\/*",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_SEC_FETCH_MODE": "no-cors",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_PRIORITY": "u=4",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "47480",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724147877.481601,
+    "REQUEST_TIME": 1724147877
+}
+
+2024-08-20 11:57:58
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": null,
+    "y": null,
+    "n": null,
+    "a": null,
+    "p": null,
+    "t": null,
+    "i": null,
+    "c": true
+}
+myserver: 1
+
+2024-08-20 14:25:19
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "47012",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156719.078719,
+    "REQUEST_TIME": 1724156719
+}
+
+2024-08-20 14:25:19
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:25:26
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "39608",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156726.41222,
+    "REQUEST_TIME": 1724156726
+}
+
+2024-08-20 14:25:26
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:25:27
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "39608",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156727.923513,
+    "REQUEST_TIME": 1724156727
+}
+
+2024-08-20 14:25:28
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:25:57
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "56918",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156757.17452,
+    "REQUEST_TIME": 1724156757
+}
+
+2024-08-20 14:25:57
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:25:58
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "56918",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156758.99796,
+    "REQUEST_TIME": 1724156758
+}
+
+2024-08-20 14:25:59
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:25:59
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "56918",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156759.461459,
+    "REQUEST_TIME": 1724156759
+}
+
+2024-08-20 14:25:59
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:26:00
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "56918",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156760.470859,
+    "REQUEST_TIME": 1724156760
+}
+
+2024-08-20 14:26:00
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:26:02
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "56918",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156762.15516,
+    "REQUEST_TIME": 1724156762
+}
+
+2024-08-20 14:26:02
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:26:06
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "*\/*",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_SEC_FETCH_DEST": "empty",
+    "HTTP_SEC_FETCH_MODE": "no-cors",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_PRIORITY": "u=4",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "44146",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156766.985212,
+    "REQUEST_TIME": 1724156766
+}
+
+2024-08-20 14:26:07
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:27:02
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "49172",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156822.41762,
+    "REQUEST_TIME": 1724156822
+}
+
+2024-08-20 14:27:02
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:27:55
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "51262",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156875.373476,
+    "REQUEST_TIME": 1724156875
+}
+
+2024-08-20 14:27:55
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:29:08
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "41546",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724156948.85301,
+    "REQUEST_TIME": 1724156948
+}
+
+2024-08-20 14:29:09
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:30:01
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "45576",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724157001.651151,
+    "REQUEST_TIME": 1724157001
+}
+
+2024-08-20 14:30:01
+Location: app.synaptic4u.local - index.php
+Error: Exception in /var/www/app.synaptic4u.local/public_html/index.php:103
+Stack trace:
+#0 {main}
+
+2024-08-20 14:32:44
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "48364",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724157164.868911,
+    "REQUEST_TIME": 1724157164
+}
+
+2024-08-20 14:32:45
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": [
+        "58",
+        "103",
+        "40",
+        "233",
+        "71",
+        "59",
+        "18",
+        "63",
+        "65",
+        "227",
+        "149",
+        "162",
+        "29",
+        "17",
+        "82",
+        "38",
+        "229",
+        "92",
+        "48",
+        "179",
+        "51",
+        "2",
+        "43",
+        "250",
+        "118",
+        "230",
+        "123",
+        "197",
+        "113",
+        "73",
+        "38",
+        "108"
+    ],
+    "y": "237989d2af78d2f49046e99f9fe95988964daa9e894f66c48cec2f2c664e2cd3667ba323a2eebad853970ddba91b2c43e6ffa5aca753531f83a6dc3e8e27098146",
+    "n": "237a41ae991308a4fc90e0d39520e1e9bf81c8029e8e66c48cecdd4d5fedb97d6f3235eb5121e56385c1b19d367596daa3df9a645afd859aa592aa5abce136e6679f",
+    "a": "237bf79a2222c311aaf3748e792896911891d1ff255b66c48cec4a8b9457f887984ebad4f37612884d00e79730e7a4ffe1a9eac0ef4f8a56d6dc8cdb294c6b627957f058cda49d",
+    "p": "237cbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48cec65e3be47933f4f78c9f3db2b612293a5982b4b97529cc873e02b520163727046d71c4efa5937ae0cb0",
+    "t": "237dbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48cec65e3be47933f4f78c9f3db2b612293a5982b4b97ca7a19ed647c20cf7f452da89cf65d1bb344e8f0e561",
+    "i": "237ebfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48cec65e3be47933f4f78c9f3db2b612293a5982b4b973075134126ba8c4cb9bb5ecffa6bb96d0c7e85ed81b8",
+    "c": true
+}
+myserver: 1
+
+2024-08-20 14:33:11
+Location: app.synaptic4u.local - logout.php
+$_GET: {
+    "message": "We were unable to send a invite to admin@synaptic4u.co.za.<br>Please contact me at system@synaptic4u.co.za."
+}
+
+2024-08-20 14:33:15
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_REFERER": "https:\/\/app.synaptic4u.local\/logout.php?message=We%20were%20unable%20to%20send%20a%20invite%20to%20admin@synaptic4u.co.za.%3Cbr%3EPlease%20contact%20me%20at%20system@synaptic4u.co.za.",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "52038",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/index.php",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724157195.30583,
+    "REQUEST_TIME": 1724157195
+}
+
+2024-08-20 14:33:15
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": [
+        "20",
+        "40",
+        "128",
+        "48",
+        "20",
+        "252",
+        "64",
+        "61",
+        "84",
+        "38",
+        "247",
+        "184",
+        "1",
+        "22",
+        "8",
+        "76",
+        "89",
+        "10",
+        "132",
+        "24",
+        "171",
+        "32",
+        "243",
+        "43",
+        "253",
+        "140",
+        "137",
+        "155",
+        "58",
+        "47",
+        "225",
+        "86"
+    ],
+    "y": "238389d2af78d2f49046e99f9fe95988964daa9e894f66c48d0b2f2c664e2cd3667ba323a2eebad853970ddba91b49105e27d741350242a18e33a3e2df6673755d",
+    "n": "238441ae991308a4fc90e0d39520e1e9bf81c8029e8e66c48d0bdd4d5fedb97d6f3235eb5121e56385c1b19d367513417a633930a5ee57de53d994d9aa6fc8ba665d",
+    "a": "2385f79a2222c311aaf3748e792896911891d1ff255b66c48d0b4a8b9457f887984ebad4f37612884d00e79730e72670f3deaa14c0ce3c4a712eee1ccf35e925809f6a624b1359",
+    "p": "2386bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48d0b65e3be47933f4f78c9f3db2b612293a5982b4b97fbe363f34095c99f7a02ca6438a56be405f1128e00",
+    "t": "2387bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48d0b65e3be47933f4f78c9f3db2b612293a5982b4b97eab60f9696b0b6ebf0a4b40b3c27016a30b13ddb0441",
+    "i": "2388bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48d0b65e3be47933f4f78c9f3db2b612293a5982b4b97a5c15adc4f1cf5557b52498d7c314a3ddf8196f1c3ef",
+    "c": true
+}
+myserver: 1
+
+2024-08-20 14:36:02
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "HTTP_PRAGMA": "no-cache",
+    "HTTP_CACHE_CONTROL": "no-cache",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "34114",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGFCdDhYc2s5bVZVK1JjTGpGSWhkdlEkeUJpR29qYmRuV1ZvaEhIeWt2Mm14bFNWVEFDUFIwU29YbVlvQlkyYVNKVQ~~~~~~~~=f10fedefb3cf14ec30e9303b2c4ac7c9027657b90c2353a4081aeb6091e54a33e7a84b5f6bd1951c57672c094a278370eaf8d5394fd3b28dd63a4b79a41e73166c73784324aa3c0b7d4a39f88fcb25b78e99a7e24c6a155c409895907a85eb50&JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGYrTWR0U2ozUUFYOWkrTzQ0LzdpbmckODQ1QlZTY0tpSmlSRmJ3UWpEWDVEdFRxN0FxR1pMc3FwRnEvUEZON2h4QQ~~~~~~~~=237fbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48d0165e3be47933f4f78c9f3db2b612293a5982b4b97bc168aa7675bb8c5db3602d92ac57edfc8496c7f194b56&JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGxadzFmVUtLQTdTQW1iSXdCTC9uSFEkVHA5a1hmM0tkUTB4TWxaZWxHS0VHNEVKTWhGOTVORW51ZkhhdmVveUlGZw~~~~~~~~=2380f79a2222c311aaf3748e792896911891d1ff255b66c48d014a8b9457f887984ebad4f37612884d00e79730e7b75acf3603f49b8b4c70dcab148bc7937deee556a67d3c2853",
+    "REQUEST_URI": "\/index.php?JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGFCdDhYc2s5bVZVK1JjTGpGSWhkdlEkeUJpR29qYmRuV1ZvaEhIeWt2Mm14bFNWVEFDUFIwU29YbVlvQlkyYVNKVQ~~~~~~~~=f10fedefb3cf14ec30e9303b2c4ac7c9027657b90c2353a4081aeb6091e54a33e7a84b5f6bd1951c57672c094a278370eaf8d5394fd3b28dd63a4b79a41e73166c73784324aa3c0b7d4a39f88fcb25b78e99a7e24c6a155c409895907a85eb50&JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGYrTWR0U2ozUUFYOWkrTzQ0LzdpbmckODQ1QlZTY0tpSmlSRmJ3UWpEWDVEdFRxN0FxR1pMc3FwRnEvUEZON2h4QQ~~~~~~~~=237fbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48d0165e3be47933f4f78c9f3db2b612293a5982b4b97bc168aa7675bb8c5db3602d92ac57edfc8496c7f194b56&JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGxadzFmVUtLQTdTQW1iSXdCTC9uSFEkVHA5a1hmM0tkUTB4TWxaZWxHS0VHNEVKTWhGOTVORW51ZkhhdmVveUlGZw~~~~~~~~=2380f79a2222c311aaf3748e792896911891d1ff255b66c48d014a8b9457f887984ebad4f37612884d00e79730e7b75acf3603f49b8b4c70dcab148bc7937deee556a67d3c2853",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724157362.337969,
+    "REQUEST_TIME": 1724157362
+}
+
+2024-08-20 14:36:02
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": [
+        "85",
+        "209",
+        "25",
+        "160",
+        "67",
+        "48",
+        "141",
+        "137",
+        "225",
+        "77",
+        "180",
+        "101",
+        "140",
+        "149",
+        "24",
+        "68",
+        "133",
+        "70",
+        "248",
+        "78",
+        "0",
+        "123",
+        "180",
+        "193",
+        "255",
+        "244",
+        "66",
+        "230",
+        "157",
+        "50",
+        "158",
+        "86"
+    ],
+    "y": "238989d2af78d2f49046e99f9fe95988964daa9e894f66c48db22f2c664e2cd3667ba323a2eebad853970ddba91bc47a08471c77f0ddb251d3deea1080091c2825",
+    "n": "238a41ae991308a4fc90e0d39520e1e9bf81c8029e8e66c48db2dd4d5fedb97d6f3235eb5121e56385c1b19d36750c41e9e159710cbcb3636c580121989caf5b5a68",
+    "a": "238bf79a2222c311aaf3748e792896911891d1ff255b66c48db24a8b9457f887984ebad4f37612884d00e79730e7839c02600703c7361c2a32fa71483d0c4236d2786ed8c58339",
+    "p": "238cbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48db265e3be47933f4f78c9f3db2b612293a5982b4b97896d85fd8598b8a0b104426d88d1c7ca1f8728ffcb",
+    "t": "238dbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48db265e3be47933f4f78c9f3db2b612293a5982b4b9742f9e34c1d19814365cb1f8c8c2f02b69c5569c89bfa",
+    "i": "238ebfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48db265e3be47933f4f78c9f3db2b612293a5982b4b975273f2441de54b9a5f3dfb74969a09b9321b6a5b811f",
+    "c": true
+}
+myserver: 1
+
+2024-08-20 14:44:07
+Location: app.synaptic4u.local - logout.php
+$_GET: {
+    "message": "Something didn't work with what you gave me ;("
+}
+
+2024-08-20 14:44:11
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_REFERER": "https:\/\/app.synaptic4u.local\/logout.php?message=Something%20didn%27t%20work%20with%20what%20you%20gave%20me%20;(",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "43590",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/index.php",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724157851.888506,
+    "REQUEST_TIME": 1724157851
+}
+
+2024-08-20 14:44:12
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": [
+        "22",
+        "108",
+        "160",
+        "38",
+        "191",
+        "188",
+        "203",
+        "170",
+        "65",
+        "38",
+        "243",
+        "79",
+        "162",
+        "155",
+        "17",
+        "154",
+        "183",
+        "23",
+        "216",
+        "95",
+        "120",
+        "29",
+        "227",
+        "239",
+        "67",
+        "83",
+        "240",
+        "12",
+        "185",
+        "178",
+        "161",
+        "9"
+    ],
+    "y": "23ac89d2af78d2f49046e99f9fe95988964daa9e894f66c48f9b2f2c664e2cd3667ba323a2eebad853970ddba91bcba5e4145a3e1f5864e587f47bb17e325b2171",
+    "n": "23ad41ae991308a4fc90e0d39520e1e9bf81c8029e8e66c48f9bdd4d5fedb97d6f3235eb5121e56385c1b19d367540d6fdc775aa7ea1cf326dfd954b985a67851617",
+    "a": "23aef79a2222c311aaf3748e792896911891d1ff255b66c48f9b4a8b9457f887984ebad4f37612884d00e79730e7d6e427809fc1a849a5cef416a7f624366e47b51a0a4c7fe90a",
+    "p": "23afbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48f9b65e3be47933f4f78c9f3db2b612293a5982b4b97087463e94c0609a15ed55ad71be0d4ad13a201cf3d",
+    "t": "23b0bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48f9b65e3be47933f4f78c9f3db2b612293a5982b4b976d28b9066038a5048eeb54642ffd5457edfb50f370d0",
+    "i": "23b1bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48f9b65e3be47933f4f78c9f3db2b612293a5982b4b97345c0c5f49828887acde76b2ee951ff1396c8c40c6f3",
+    "c": true
+}
+myserver: 1
+
+2024-08-20 14:44:19
+Location: app.synaptic4u.local - logout.php
+$_GET: {
+    "message": "We were unable to send a invite to emiledewilde2@gmail.com.<br>Please contact me at system@synaptic4u.co.za."
+}
+
+2024-08-20 14:44:23
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_REFERER": "https:\/\/app.synaptic4u.local\/logout.php?message=We%20were%20unable%20to%20send%20a%20invite%20to%20emiledewilde2@gmail.com.%3Cbr%3EPlease%20contact%20me%20at%20system@synaptic4u.co.za.",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "same-origin",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "55434",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "",
+    "REQUEST_URI": "\/index.php",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724157863.68357,
+    "REQUEST_TIME": 1724157863
+}
+
+2024-08-20 14:44:23
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": [
+        "237",
+        "173",
+        "207",
+        "252",
+        "88",
+        "139",
+        "43",
+        "24",
+        "71",
+        "161",
+        "109",
+        "50",
+        "128",
+        "35",
+        "100",
+        "151",
+        "136",
+        "29",
+        "14",
+        "56",
+        "230",
+        "104",
+        "36",
+        "192",
+        "55",
+        "131",
+        "166",
+        "21",
+        "100",
+        "71",
+        "126",
+        "34"
+    ],
+    "y": "23b689d2af78d2f49046e99f9fe95988964daa9e894f66c48fa72f2c664e2cd3667ba323a2eebad853970ddba91b24019fd55016d5f64648d1924d2f460d3e01cb",
+    "n": "23b741ae991308a4fc90e0d39520e1e9bf81c8029e8e66c48fa7dd4d5fedb97d6f3235eb5121e56385c1b19d3675ba3931fe21d958768079ed5b7b52d65fbecc5e25",
+    "a": "23b8f79a2222c311aaf3748e792896911891d1ff255b66c48fa74a8b9457f887984ebad4f37612884d00e79730e7e93c48890ecb1c9136a56fecb987a2f5214322d161475e4715",
+    "p": "23b9bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48fa765e3be47933f4f78c9f3db2b612293a5982b4b97f50954fe4c74dccd636962cb6366092c0bc2c04d7f",
+    "t": "23babfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48fa765e3be47933f4f78c9f3db2b612293a5982b4b9798d67d40c4313c37e9b87b18099d88d0ce317ef4f6b1",
+    "i": "23bbbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48fa765e3be47933f4f78c9f3db2b612293a5982b4b976a36df60abcd700cbbdd2b6d2354a98688c2fa68b2fd",
+    "c": true
+}
+myserver: 1
+
+2024-08-20 14:44:41
+Location: app.synaptic4u.local - index.php
+IP Address: 127.0.0.1
+Browser User Agent: "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0"
+Is Mobile: No
+config: {
+    "url": {
+        "client": "app.synaptic4u.local",
+        "server": "api.synaptic4u.local"
+    },
+    "email": {
+        "admin": "admin@synaptic4u.co.za",
+        "sales": "emile@synaptic4u.co.za"
+    },
+    "key": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJHdRTmFMQThVUzRWM2JuekdRTTlNZUEkTUIyNitkT1RWNGxKTEdZenhYYU9JWllUT0piR1FtUmpTclBycElBelROdw",
+    "link": {
+        "enabled": 1,
+        "url": "https:\/\/synaptic4u.co.za\/apps\/",
+        "text": "Our available services"
+    },
+    "production": {
+        "enabled": 1
+    }
+}
+SERVER: {
+    "HTTPS": "on",
+    "SSL_TLS_SNI": "app.synaptic4u.local",
+    "HTTP_HOST": "app.synaptic4u.local",
+    "HTTP_USER_AGENT": "Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.0",
+    "HTTP_ACCEPT": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/png,image\/svg+xml,*\/*;q=0.8",
+    "HTTP_ACCEPT_LANGUAGE": "en-US,en;q=0.5",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate, br, zstd",
+    "HTTP_DNT": "1",
+    "HTTP_CONNECTION": "keep-alive",
+    "HTTP_UPGRADE_INSECURE_REQUESTS": "1",
+    "HTTP_SEC_FETCH_DEST": "document",
+    "HTTP_SEC_FETCH_MODE": "navigate",
+    "HTTP_SEC_FETCH_SITE": "none",
+    "HTTP_SEC_FETCH_USER": "?1",
+    "HTTP_PRIORITY": "u=0, i",
+    "PATH": "\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin:\/snap\/bin",
+    "SERVER_SIGNATURE": "<address>Apache\/2.4.52 (Ubuntu) Server at app.synaptic4u.local Port 443<\/address>\n",
+    "SERVER_SOFTWARE": "Apache\/2.4.52 (Ubuntu)",
+    "SERVER_NAME": "app.synaptic4u.local",
+    "SERVER_ADDR": "127.0.0.1",
+    "SERVER_PORT": "443",
+    "REMOTE_ADDR": "127.0.0.1",
+    "DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "REQUEST_SCHEME": "https",
+    "CONTEXT_PREFIX": "",
+    "CONTEXT_DOCUMENT_ROOT": "\/var\/www\/app.synaptic4u.local\/public_html",
+    "SERVER_ADMIN": "system@synaptic4u.local",
+    "SCRIPT_FILENAME": "\/var\/www\/app.synaptic4u.local\/public_html\/index.php",
+    "REMOTE_PORT": "36548",
+    "GATEWAY_INTERFACE": "CGI\/1.1",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "GET",
+    "QUERY_STRING": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJEVycm1FdEhKbXBtOFVUcFJoSXAra2ckTVEzeTNrdVBSZXg3YStkNkN1dk9ISXFpbWhDam1rYmpRRFlueVFMdHhXYw~~~~~~~~=967368d3eea5b7b9d29a28f01a4112b79aa5bc88b48f4b317d32a707976501dac6135f568aba4aa6ce47e9278eb8a894bc38403295ed4c8ca2843b8d3c1f537bec7881a6c798313199334a35549b46655cd67752b00f31aac71dce4f2227&JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGJlTWJvY1orS2EwRE9BYVBmbEhuK3ckbWJJK2J5dVZaTk1CM0hOTkVCRkorNFAySFoxODZDcjhUcUpGMDRxcEEyaw~~~~~~~~=23b2bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48fa365e3be47933f4f78c9f3db2b612293a5982b4b97258b4cec2308f46e62fae267786d29ecd339e5f3c6f180&JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJFhuQjIxeUIxMHEydmdPUURkQlQxNnckU0ZRYWcrUlNFT0p2elc0cG1VMVk3QlJGWkRnNzhRbExrMXk4QWN6cTBYYw~~~~~~~~=23b3f79a2222c311aaf3748e792896911891d1ff255b66c48fa34a8b9457f887984ebad4f37612884d00e79730e76c454efdf5f44343dfa840fc55445ae896f565b00b7f6aa6de",
+    "REQUEST_URI": "\/index.php?JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJEVycm1FdEhKbXBtOFVUcFJoSXAra2ckTVEzeTNrdVBSZXg3YStkNkN1dk9ISXFpbWhDam1rYmpRRFlueVFMdHhXYw~~~~~~~~=967368d3eea5b7b9d29a28f01a4112b79aa5bc88b48f4b317d32a707976501dac6135f568aba4aa6ce47e9278eb8a894bc38403295ed4c8ca2843b8d3c1f537bec7881a6c798313199334a35549b46655cd67752b00f31aac71dce4f2227&JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGJlTWJvY1orS2EwRE9BYVBmbEhuK3ckbWJJK2J5dVZaTk1CM0hOTkVCRkorNFAySFoxODZDcjhUcUpGMDRxcEEyaw~~~~~~~~=23b2bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48fa365e3be47933f4f78c9f3db2b612293a5982b4b97258b4cec2308f46e62fae267786d29ecd339e5f3c6f180&JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJFhuQjIxeUIxMHEydmdPUURkQlQxNnckU0ZRYWcrUlNFT0p2elc0cG1VMVk3QlJGWkRnNzhRbExrMXk4QWN6cTBYYw~~~~~~~~=23b3f79a2222c311aaf3748e792896911891d1ff255b66c48fa34a8b9457f887984ebad4f37612884d00e79730e76c454efdf5f44343dfa840fc55445ae896f565b00b7f6aa6de",
+    "SCRIPT_NAME": "\/index.php",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1724157881.156449,
+    "REQUEST_TIME": 1724157881
+}
+
+2024-08-20 14:44:41
+Location: app.synaptic4u.local - index.php
+result: {
+    "s": [
+        "199",
+        "146",
+        "98",
+        "85",
+        "40",
+        "221",
+        "151",
+        "61",
+        "232",
+        "86",
+        "73",
+        "217",
+        "204",
+        "53",
+        "49",
+        "194",
+        "207",
+        "99",
+        "144",
+        "213",
+        "116",
+        "151",
+        "10",
+        "182",
+        "38",
+        "219",
+        "158",
+        "107",
+        "68",
+        "67",
+        "207",
+        "113"
+    ],
+    "y": "23bc89d2af78d2f49046e99f9fe95988964daa9e894f66c48fb92f2c664e2cd3667ba323a2eebad853970ddba91bb26f5991c55a095bafe153570e88986de0cf7e",
+    "n": "23bd41ae991308a4fc90e0d39520e1e9bf81c8029e8e66c48fb9dd4d5fedb97d6f3235eb5121e56385c1b19d367545e6fb6ae9f9bdae9f38e04ea60772c21296715a",
+    "a": "23bef79a2222c311aaf3748e792896911891d1ff255b66c48fb94a8b9457f887984ebad4f37612884d00e79730e7199d74275834df7c7d2b7efc205c6ac6b34f72da009e6c25d9",
+    "p": "23bfbfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48fb965e3be47933f4f78c9f3db2b612293a5982b4b97d5d15ada6403cb3a649d28a3bb430aac7fd0774d57",
+    "t": "23c0bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48fb965e3be47933f4f78c9f3db2b612293a5982b4b97a5d3bd2307dce61e71a7f8842ef48b0efeada4f8af4e",
+    "i": "23c1bfbaf8b2d1cdf92bf83857fe1748c0f68de03d4766c48fb965e3be47933f4f78c9f3db2b612293a5982b4b97119d8381dce38f4dd2814be810a3139d5b7d5c41f588",
+    "c": true
+}
+myserver: 1

@@ -1,0 +1,1 @@
+<?php if ($checklistid > 0) { ?><span class="p-1 alert sm alert-success text-center fading">Your Checklist stored on <?php echo $datedon; ?> was successfully created</span><?php } else { ?><span class="p-1 alert sm alert-warning text-center fading">Your Checklist was NOT created</span><?php } ?>

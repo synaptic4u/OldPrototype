@@ -1,0 +1,58 @@
+SecMarker BEGIN_WHITELIST_test
+
+# Make sure there are no URI evasion attempts
+SecRule REQUEST_URI "!@streq %{REQUEST_URI_RAW}" \
+    "id:11021,phase:1,deny,t:normalizePathWin,log,\
+    msg:'URI evasion attempt'"
+
+# START whitelisting block for URI /fun/test
+# Checks to see if URI is test, if not then skips out after: END_WHITELIST_test
+SecRule REQUEST_URI "!@beginsWith /fun/test" \
+    "id:11022,phase:1,pass,t:lowercase,nolog,skipAfter:END_WHITELIST_test"
+SecRule REQUEST_URI "!@beginsWith /fun/test" \
+    "id:11023,phase:2,pass,t:lowercase,nolog,skipAfter:END_WHITELIST_test"
+
+# Validate HTTP method - Allows POST method only - also accepts HEAD & OPTIONS.
+# status: 405 - Indicates method is not allowed(GET, PUT, DELETE)
+SecRule REQUEST_METHOD "!@pm HEAD POST OPTIONS" \
+    "id:11124,phase:1,deny,status:405,log,tag:'test.php Whitelist',\
+    msg:'Method %{MATCHED_VAR} not allowed'"
+
+# Validate URIs
+SecRule REQUEST_FILENAME "@beginsWith /fun/test" \
+    "id:11225,phase:1,pass,nolog,tag:'test.php Whitelist',\
+    skipAfter:END_WHITELIST_URIBLOCK_test"
+
+# If we land here, we are facing an unknown URI,
+# which is why we will respond using the 404 status code
+SecAction "id:11799,phase:1,deny,status:404,log,tag:'test.php Whitelist',\
+    msg:'Unknown URI %{REQUEST_URI}'"
+
+SecMarker END_WHITELIST_URIBLOCK_test
+
+# Validate parameter names
+SecRule ARGS_NAMES "!@rx ^(k|i|s|m|c|cpk)$" \
+    "id:11301,phase:2,deny,log,tag:'test.php Whitelist',\
+    msg:'Unknown parameter: %{MATCHED_VAR_NAME}'"
+
+# Validate each parameter's uniqueness
+SecRule &ARGS:k  "@gt 1" \
+    "id:11406,phase:2,deny,log,tag:'test.php Whitelist',\
+    msg:'%{MATCHED_VAR_NAME} occurring more than once'"
+SecRule &ARGS:i  "@gt 1" \
+    "id:11407,phase:2,deny,log,tag:'test.php Whitelist',\
+    msg:'%{MATCHED_VAR_NAME} occurring more than once'"
+SecRule &ARGS:s  "@gt 1" \
+    "id:11408,phase:2,deny,log,tag:'test.php Whitelist',\
+    msg:'%{MATCHED_VAR_NAME} occurring more than once'"
+SecRule &ARGS:m  "@gt 1" \
+    "id:11409,phase:2,deny,log,tag:'test.php Whitelist',\
+    msg:'%{MATCHED_VAR_NAME} occurring more than once'"
+SecRule &ARGS:c  "@gt 1" \
+    "id:11410,phase:2,deny,log,tag:'test.php Whitelist',\
+    msg:'%{MATCHED_VAR_NAME} occurring more than once'"
+SecRule &ARGS:cpk  "@gt 1" \
+    "id:11411,phase:2,deny,log,tag:'test.php Whitelist',\
+    msg:'%{MATCHED_VAR_NAME} occurring more than once'"
+
+SecMarker END_WHITELIST_test

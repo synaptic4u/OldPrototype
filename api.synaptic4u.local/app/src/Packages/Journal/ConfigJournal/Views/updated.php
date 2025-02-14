@@ -1,0 +1,1 @@
+<?php if (-1 != $lastid) { ?><span class="p-1 alert sm alert-success text-center fading"><?php echo $title; ?> was successfully updated.</span><?php } else { ?><span class="p-1 alert sm alert-warning text-center fading"><?php echo $title; ?> was NOT updated.</span><?php } ?>

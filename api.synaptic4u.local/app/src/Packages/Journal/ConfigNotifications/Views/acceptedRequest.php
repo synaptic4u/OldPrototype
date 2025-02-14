@@ -1,0 +1,1 @@
+<?php if ((isset($lastid)) && (0 < ((int) $lastid))) { ?><span class="p-1 alert alert-sm alert-success text-center fading">You have accepted <?php echo $user; ?> request to follow you.</span><?php } else { ?><span class="p-1 alert alert-sm alert-warning text-center fading">Your request has NOT been processed.<br>Please contact the Admin.</span><?php } ?>

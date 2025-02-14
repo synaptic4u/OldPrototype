@@ -1,0 +1,26 @@
+{
+    "hierachyid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "appid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "moduleid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    },
+    "roleid": {
+        "required": true,
+        "type": "int",
+        "value": 0,
+        "min": 1
+    }
+}

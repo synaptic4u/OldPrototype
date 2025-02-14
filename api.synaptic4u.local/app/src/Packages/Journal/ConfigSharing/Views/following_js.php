@@ -1,0 +1,1 @@
+send('config_followed_by','<?php echo $calls['followed']; ?>','<?php echo $calls['ConfigSharing2']; ?>');

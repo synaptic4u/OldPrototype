@@ -1,0 +1,1643 @@
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:30:01
+userid: 1
+Location: Synaptic4U\Core\DB::db()
+Error: SQLSTATE[HY000] [2002] No such file or directory
+
+2024-08-20 14:33:10
+userid: 3
+Location: Mailer\SendMail::sendEmail()
+error: Message could not be sent. Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+2024-08-20 14:44:07
+userid: 3
+Location: Synaptic4U\Core\App::loadController()
+$e: Exception: Can't find this method! in /var/www/api.synaptic4u.local/app/src/Core/App.php:325
+Stack trace:
+#0 /var/www/api.synaptic4u.local/app/src/Core/App.php(393): Synaptic4U\Core\App->loadController()
+#1 /var/www/api.synaptic4u.local/app/src/Core/App.php(73): Synaptic4U\Core\App->routeApp()
+#2 /var/www/api.synaptic4u.local/public_html/base.php(34): Synaptic4U\Core\App->__construct()
+#3 {main}
+
+2024-08-20 14:44:19
+userid: 3
+Location: Mailer\SendMail::sendEmail()
+error: Message could not be sent. Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+2024-08-20 14:44:42
+userid: 1
+Location: Synaptic4U\Core\DB::query()
+Calling Method: Synaptic4U\Packages\Hierachy\Base\Model::getHierachy
+Params: [
+    7
+]
+sql: select min(h.hierachyid) as hierachyid, h.hierachysubid, hd.name, case when isnull(hi.logo) then "default" else hi.logo end as logo
+                        from hierachy_users hu
+                        JOIN hierachy h
+                            ON hu.hierachyid = h.hierachyid
+                        join hierachy_det hd 
+                            on h.hierachyid = hd.hierachyid 
+                        left join hierachy_particulars hp
+                            on hd.detid = hp.detid
+                        left join hierachy_images hi
+                            on hp.particularid = hi.particularid
+                        where hu.userid = ?
+                        order by h.hierachysubid, h.hierachyid;
+Error: SQLSTATE[42000]: Syntax error or access violation: 1140 In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'api.h.hierachysubid'; this is incompatible with sql_mode=only_full_group_by
+pdo->errorCode(): 00000
+pdo->errorInfo(): ["00000",null,null]

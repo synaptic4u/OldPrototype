@@ -1,0 +1,1 @@
+load.message('<?php echo $msg; ?>');wipe.message();send('main_container','<?php echo $calls['load']; ?>','<?php echo $calls['JournalList']; ?>');

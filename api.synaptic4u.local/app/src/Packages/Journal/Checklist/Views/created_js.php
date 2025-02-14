@@ -1,0 +1,1 @@
+load.message('<?php echo $msg; ?>');send('main_container','<?php echo $calls['show']; ?>','<?php echo $calls['Checklist']; ?>');wipe.message();

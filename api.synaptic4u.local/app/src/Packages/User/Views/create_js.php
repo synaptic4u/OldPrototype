@@ -1,0 +1,1 @@
+<?php echo ((int) $popi_compliance['value'] === (int) 1) ? "scroller.bottom('popi-scroller');" : "scroller.top('popi-scroller');";

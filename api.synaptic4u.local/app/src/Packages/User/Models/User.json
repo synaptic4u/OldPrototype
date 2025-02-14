@@ -1,0 +1,32 @@
+{
+    "firstname": {
+        "required": true,
+        "type": "string",
+        "length": 2
+    },
+    "surname": {
+        "required": true,
+        "type": "string",
+        "length": 3
+    },
+    "email": {
+        "required": true,
+        "type": "email",
+        "length": 3
+    },
+    "contactnu": {
+        "required": true,
+        "type": "contactnu",
+        "length": 9
+    },
+    "passkey": {
+        "required": true,
+        "type": "password",
+        "length": 15
+    },
+    "popi_compliance": {
+        "required": true,
+        "type": "int",
+        "value": 1
+    }
+}

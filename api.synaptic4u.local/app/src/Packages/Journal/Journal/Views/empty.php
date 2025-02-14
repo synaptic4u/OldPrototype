@@ -1,0 +1,1 @@
+<?php if ((int) $cnt < 1) { ?><span class="p-1 alert sm alert-success fading">Please add a section title to your journal.</span><?php } else { ?><span class="p-1 alert sm alert-warning fading">There is something else wrong.</span><?php } ?>

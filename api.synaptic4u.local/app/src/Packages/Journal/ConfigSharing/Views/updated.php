@@ -1,0 +1,1 @@
+<?php if (1 === ((int) $data['sharing'])) { ?><span class="p-1 alert alert-sm alert-success text-center fading">Sharing is <?php echo $sharing; ?>.</span><?php } else { ?><span class="p-1 alert alert-sm alert-warning text-center fading">Sharing is <?php echo $sharing; ?>.</span><?php } ?>

@@ -1,0 +1,17 @@
+{
+    "url" : {
+        "client" : "app.synaptic4u.local",
+        "server" : "api.synaptic4u.local"
+    },
+    "admin" : {
+        "email" : "system@synaptic4u.co.za"
+    },
+    "link" : {
+        "enabled" : 1,
+        "url" : "https://synaptic4u.co.za/apps/",
+        "text" : "Our available services"
+    },
+    "production" : {
+        "enabled" : 1
+    }
+}

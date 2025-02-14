@@ -1,0 +1,2 @@
+<?php echo $list_js; ?>send('collapseHierachyApplicationsRolesBody',
+'<?php echo $show; ?>','<?php echo $approles; ?>',{'hierachyid' : '<?php echo $hierachyid['value']; ?>','detid' : '<?php echo $detid['value']; ?>'});

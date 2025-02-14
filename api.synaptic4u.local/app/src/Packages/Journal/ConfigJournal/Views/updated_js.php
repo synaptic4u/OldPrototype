@@ -1,0 +1,2 @@
+load.message('<?php echo $msg; ?>');wipe.message();send('dash_show','<?php echo $calls['loadlist']; ?>','<?php echo $calls['ConfigJournal']; ?>');
+ 

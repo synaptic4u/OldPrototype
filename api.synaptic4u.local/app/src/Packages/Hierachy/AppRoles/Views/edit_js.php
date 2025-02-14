@@ -1,0 +1,2 @@
+send('<?php echo $approles_for_module_row_id; ?>',
+'<?php echo $editDetail; ?>','<?php echo $approles; ?>',{'hierachyid' : '<?php echo $hierachyid['value']; ?>', 'appid' : '<?php echo $appid['value']; ?>', 'moduleid' : '<?php echo $moduleid['value']; ?>', 'moduleids' : '<?php echo $moduleids; ?>'});

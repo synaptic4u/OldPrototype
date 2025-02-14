@@ -1,0 +1,1 @@
+send('dash_show','<?php echo $calls['loadShareable']; ?>','<?php echo $calls['ConfigSharing']; ?>');load.message('<?php echo $msg; ?>');wipe.message();

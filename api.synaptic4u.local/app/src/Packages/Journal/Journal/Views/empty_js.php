@@ -1,0 +1,1 @@
+send('main_container','<?php echo $calls['load']; ?>','<?php echo $calls['Dashboard']; ?>');load.message('<?php echo $msg; ?>');wipe.message();setTimeout(function() {send('dash_show','<?php echo $calls['loadlist']; ?>','<?php echo $calls['ConfigJournal']; ?>');}, 3000);
