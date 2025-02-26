@@ -1,3 +1,6 @@
+This is a prototype for which I am developing a Application & Organisation Management Suite.
+I was busy updating it b4 my mom passed which derailed this prototype but pushed me to look at a framework instead which is a new project.
+
 I uninstalled and reinstalled Apache2 and PHP and then followed the steps in:
 vhost setup.txt
 
